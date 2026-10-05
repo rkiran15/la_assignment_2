@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Generated figures
+figures/
+**/figures/
+
+# Jupyter / IPython Notebook checkpoints & metadata
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+#data
+../data/
